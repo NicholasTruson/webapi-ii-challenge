@@ -16,5 +16,5 @@ server.get('/', (req, res) => {
 });
 
 server.listen(4000, () => {
-  console.log('\n*** Server Running on http://localhost:4000 ***\n');
+  console.log('Server Running on localhost:4000');
 });
